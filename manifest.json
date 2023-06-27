@@ -1,6 +1,6 @@
 {
-    "name": "flame_doc",
-    "short_name": "flame_doc",
+    "name": "prueba",
+    "short_name": "prueba",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
